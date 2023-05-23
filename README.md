@@ -10,14 +10,14 @@ For suicidal intention prediction, decision tree model is used to train the mode
 
 # Installation
 
-Clone the repository and install the required packages using pip:
-$ git clone https://github.com/your_username/personality-detection.git
+Clone the repository:
+$ gh repo clone shrutichaubey2501/intention-Prediction-of-depressed-patients
+install anaconda
 
 # Usage
 
-install anaconda
 Run the file "run.ipynb"
-
+provide valid inputs
 
 # Endpoints
 /suicide.csv : dataset of depressed patients
