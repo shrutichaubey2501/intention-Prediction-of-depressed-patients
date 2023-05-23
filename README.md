@@ -10,8 +10,6 @@ For suicidal intention prediction, decision tree model is used to train the mode
 
 # Installation
 
-Clone the repository:
-$ gh repo clone shrutichaubey2501/intention-Prediction-of-depressed-patients<br />
 install anaconda
 
 # Usage
