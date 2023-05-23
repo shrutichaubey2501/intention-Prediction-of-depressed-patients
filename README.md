@@ -11,16 +11,16 @@ For suicidal intention prediction, decision tree model is used to train the mode
 # Installation
 
 Clone the repository:
-$ gh repo clone shrutichaubey2501/intention-Prediction-of-depressed-patients
+$ gh repo clone shrutichaubey2501/intention-Prediction-of-depressed-patients<br />
 install anaconda
 
 # Usage
 
-Run the file "run.ipynb"
+Run the file "run.ipynb"<br />
 provide valid inputs
 
 # Endpoints
-/suicide.csv : dataset of depressed patients
-/suicide_prediction.ipynb : training and testing of the dataset using ML model
-/decisiontree_model.joblib : trained decision tree model for suicide intention prediction
-/run.ipynb : main file that needs to be run in order to take input from the user and display the output using the trained model
+/suicide.csv : dataset of depressed patients<br />
+/suicide_prediction.ipynb : training and testing of the dataset using ML model<br />
+/decisiontree_model.joblib : trained decision tree model for suicide intention prediction<br />
+/run.ipynb : main file that needs to be run in order to take input from the user and display the output using the trained model<br />
