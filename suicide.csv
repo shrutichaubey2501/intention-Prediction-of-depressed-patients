@@ -1,0 +1,200 @@
+emotion,age,relationship_status,gender,depression level,working_Status,no_of_days,social_interaction_level,admission_status,drugs/alcohol,intention,case studies
+sad,1,2,0,2,1,10,1,0,1,high,SSR
+angry,1,2,0,2,1,10,1,0,1,high,SSR
+neutral,1,2,0,2,1,10,1,0,1,high,SSR
+happy,1,2,0,2,1,10,1,0,1,high,SSR
+sad,2,1,0,2,1,,3,0,0,high,robin williams
+neutral,0,2,0,1,0,0,5,0,1,high,boy
+sad,0,2,1,1,0,0,3,0,0,low,girl
+anxiety,2,1,0,2,1,0,0,0,0,high,kushal punjabi
+neutral,3,1,1,1,0,,5,1,0,low,vibha
+anxiety,0,0,1,2,0,,3,0,0,high,preksha mehta
+anxiety,4,1,0,1,1,,4,1,0,high,mohan
+happy,4,1,0,1,1,,4,1,0,low,mohan
+neutral,0,0,1,2,0,,4,0,0,low,lucy
+happy,0,0,1,2,0,,4,0,0,low,lucy
+fear,0,0,1,2,0,,4,0,0,high,lucy
+neutral,4,1,0,1,1,,4,1,0,low,mohan
+anxiety,1,1,0,1,0,,3,0,0,high,manmeet grewal
+sad,0,0,1,2,1,,4,0,0,high,soujanya kannda actress
+happy,2,1,0,2,1,,3,0,0,low,robin williams
+angry,3,1,1,1,0,,5,1,0,high,vibha
+anxiety,2,1,0,2,1,,0,0,0,high,sameer sharma
+angry,1,3,1,2,1,,4,0,0,low,deepika
+sad,1,3,1,0,0,3,4,0,0,low,
+happy,1,2,0,2,1,,4,0,1,low,tiger sharrof
+happy,1,3,1,0,0,,4,0,0,low,ss
+angry,1,3,1,0,0,,4,0,0,low,ss
+fear,1,3,1,0,0,,4,0,0,low,ss
+happy,3,1,0,2,0,0,4,0,0,low,amithab bachan
+fear,1,0,1,0,0,,3,0,0,low,sc
+sad,1,0,1,0,0,,3,0,0,low,sc
+happy,1,0,1,0,0,,3,0,0,low,sc
+sad,1,3,1,0,0,,4,0,0,high,ss
+anxiety,1,3,1,2,1,,4,0,0,high,deepika
+anxiety,2,1,0,1,1,,4,0,1,low,kapil
+happy,2,1,0,1,1,,4,0,1,low,kapil
+fear,2,1,0,1,1,,4,0,1,low,kapil
+neutral,3,1,0,2,0,0,4,0,0,low,amithab bachan
+anxiety,3,1,0,2,0,0,4,0,0,low,amithab bachan
+fear,3,1,0,2,0,0,4,0,0,low,amithab bachan
+anxiety,0,0,0,0,0,,5,0,0,low,craig
+sad,0,3,0,0,1,,5,0,0,low,craig
+anxiety,0,3,0,1,1,,5,,,low,craig
+angry,1,1,0,1,1,,5,,,low,craig
+anxiety,1,1,0,2,1,,5,,,low,craig
+happy,0,0,0,0,0,,4,0,1,low,richard
+happy,1,1,0,0,1,,4,,,low,richard
+angry,1,1,0,0,1,,4,,,low,richard
+anxiety,1,1,0,1,1,,1,,,low,richard
+sad,2,4,0,1,1,,1,,,low,richard
+sad,3,1,0,2,1,,1,,,high,richard
+happy,0,0,0,0,0,,1,,0,low,eddie
+sad,0,0,0,1,1,,1,,0,high,eddie
+neutral,0,0,0,1,1,,1,,0,low,eddie
+sad,1,0,0,2,0,,0,,0,high,eddie
+sad,2,0,0,2,1,,0,,0,low,eddie
+anxiety,2,1,0,1,1,,0,,0,low,eddie
+angry,2,1,0,2,1,,5,,0,low,eddie
+anxiety,2,1,0,2,1,,5,,0,high,eddie
+happy,1,0,1,0,1,,1,,0,low,milli
+anxiety,1,0,1,1,0,,0,,0,low,milli
+sad,1,0,1,2,0,,0,,0,low,milli
+neutral,1,0,1,2,1,,0,,0,low,milli
+anxiety,1,0,1,2,1,,0,,0,high,milli
+happy,1,0,1,0,1,,4,,,low,sandi
+happy,1,1,1,0,1,,4,,,low,sandi
+sad,2,1,1,1,1,,4,,,low,sandi
+fear,2,1,1,1,1,,4,,,low,sandi
+anxiety,2,1,1,2,1,,5,,,low,sandi
+anxiety,2,1,1,2,1,,1,,,high,sandi
+anxiety,0,0,0,1,0,,5,,,low,daniel
+anxiety,0,0,0,1,0,,5,,,high,daniel
+happy,0,0,1,0,0,,4,,,low,nicole
+sad,0,0,1,1,0,,5,,,low,nicole
+fear,0,0,1,1,0,,5,,,low,nicole
+anxiety,0,0,1,1,0,,2,,,low,nicole
+sad,0,2,1,2,0,,0,,,low,nicole
+happy,0,0,1,0,0,,4,,,low,tara
+sad,0,0,1,0,0,,4,,,low,tara
+anxiety,0,0,1,0,0,,5,,,low,tara
+anxiety,0,0,1,1,0,,4,,,low,jasmine
+sad,0,0,1,2,0,,4,,,high,courtney
+anxiety,1,0,0,1,1,,5,,,low,geoff
+happy,0,0,1,0,0,,4,,,low,catronia
+sad,0,0,1,1,0,,4,,,low,catronia
+anxiety,0,0,1,1,0,,4,,,low,catronia
+fear,0,0,1,1,0,,4,,,low,catronia
+anxiety,0,0,1,1,0,,5,,,low,catronia
+sad,0,0,1,1,0,,5,,,low,catronia
+fear,0,0,1,2,0,,5,,,low,catronia
+anxiety,0,0,1,2,0,,0,,,high,catronia
+sad,1,0,0,2,1,,0,,,low,cliff
+anxiety,1,0,0,2,1,,0,,,low,cliff
+neutral,0,0,1,1,0,,4,,,low,aria
+anxiety,1,0,1,2,0,,0,,,low,aria
+anxiety,2,0,1,2,0,,0,,,high,aria
+anxiety,3,0,1,2,0,,0,,,low,aria
+happy,0,0,1,0,0,,4,,,low,maris
+happy,1,1,1,0,0,,4,,,low,maris
+sad,1,1,1,1,0,,4,,,low,maris
+anxiety,1,1,1,1,0,,4,,,low,maris
+anxiety,2,1,1,2,0,,5,,,high,maris
+sad,2,1,1,2,0,,4,,,high,maris
+happy,1,0,0,0,1,,4,,,low,jong
+sad,1,0,0,1,1,,0,,,low,jong
+anxiety,1,0,0,2,1,,0,,,low,jong
+anxiety,1,0,0,2,1,,0,,,low,jong
+happy,0,0,1,0,1,,4,,,low,sakama
+happy,0,2,1,0,1,,4,,,low,sakama
+sad,0,2,1,1,1,,4,,,low,sakama
+fear,0,2,1,1,1,,4,,,low,sakama
+anxiety,0,2,1,1,1,,4,,,low,sakama
+anxiety,0,2,1,2,1,,4,,,low,sakama
+anxiety,0,2,1,2,1,,5,,,high,sakama
+happy,0,0,0,0,0,,4,,,low,boy
+sad,0,0,0,1,0,,4,,,low,boy
+sad,0,0,0,2,0,,5,,,low,boy
+anxiety,0,0,0,2,0,,5,,,low,boy
+anxiety,0,0,0,2,0,,5,,,high,boy
+happy,0,0,0,0,0,,4,,,low,raghav
+happy,0,0,0,1,0,,4,,,low,raghav
+happy,0,0,0,2,0,,4,,,low,raghav
+sad,0,0,0,2,0,,4,,,low,raghav
+neutral,0,0,0,2,0,,4,,,high,raghav
+happy,0,0,0,0,0,,2,,,low,boy 
+happy,0,0,0,1,0,,1,,,low,boy 
+sad,0,0,0,1,0,,1,,,low,boy 
+happy,0,0,0,2,0,,1,,,low,boy 
+anxiety,0,0,0,2,0,,0,,,low,boy 
+anxiety,0,0,0,2,0,,0,,,high,boy 
+neutral,0,0,0,2,0,,0,,,high,boy 
+angry,0,2,1,0,1,,4,,,low,sakama
+happy,1,0,0,0,0,,2,,,low,boy
+happy,1,0,0,1,0,,1,,,low,boy
+sad,1,0,0,1,0,,0,,,low,boy
+fear,1,0,0,1,0,,0,,,low,boy
+sad,1,0,0,2,0,,0,,,low,boy
+anxiety,1,0,0,2,0,,0,,,low,boy
+anxiety,1,0,0,2,0,,0,,,low,boy
+neutral,1,0,0,2,0,,0,,,high,boy
+happy,0,0,0,0,0,,2,,,low,boy
+happy,0,0,0,1,0,,1,,,low,boy
+sad,0,0,0,1,0,,0,,,low,boy
+fear,0,0,0,2,0,,0,,,low,boy
+sad,0,0,0,2,0,,0,,,low,boy
+anxiety,0,0,0,2,0,,0,,,low,boy
+anxiety,0,0,0,2,0,,0,,,low,boy
+anxiety,0,0,0,2,0,,0,,,high,boy
+angry,0,0,0,2,0,,0,,,high,boy
+neutral,0,0,0,2,0,,0,,,high,boy
+happy,0,0,0,0,0,,2,,0,low,arjun bharadwaj
+happy,0,0,0,1,0,,2,,0,low,arjun bharadwaj
+sad,0,0,0,1,0,,1,,1,low,arjun bharadwaj
+fear,0,0,0,2,0,,1,,1,low,arjun bharadwaj
+sad,0,0,0,2,0,,1,,1,low,arjun bharadwaj
+anxiety,0,0,0,2,0,,0,,1,low,arjun bharadwaj
+anxiety,1,0,0,2,0,,0,,1,low,arjun bharadwaj
+anxiety,1,0,0,2,0,,0,,1,high,arjun bharadwaj
+angry,1,0,0,2,0,,0,,1,high,arjun bharadwaj
+neutral,1,0,0,2,0,,0,,1,high,arjun bharadwaj
+happy,0,0,1,0,1,,4,,0,low,tunisha sharma
+happy,0,2,1,0,1,,4,,0,low,tunisha sharma
+happy,0,2,1,1,1,,4,,0,low,tunisha sharma
+happy,0,2,1,1,1,,4,,0,low,tunisha sharma
+sad,0,3,1,1,1,,5,,0,low,tunisha sharma
+sad,0,3,1,2,1,,5,,0,low,tunisha sharma
+sad,0,3,1,2,1,,0,,0,low,tunisha sharma
+neutral,0,3,1,2,1,,0,,0,low,tunisha sharma
+anxiety,0,3,1,2,1,,0,,0,low,tunisha sharma
+anxiety,0,3,1,2,1,,0,,0,high,tunisha sharma
+happy,0,0,1,0,1,,4,,0,low,soujanya
+happy,0,0,1,0,1,,4,,0,low,soujanya
+sad,0,0,1,0,1,,4,,0,low,soujanya
+sad,0,0,1,1,1,,5,,0,low,soujanya
+fear,0,0,1,0,1,,5,,0,low,soujanya
+fear,0,0,1,1,1,,5,,0,low,soujanya
+fear,0,0,1,2,1,,1,,0,low,soujanya
+sad,0,0,1,2,1,,1,,0,low,soujanya
+anxiety,0,0,1,2,1,,0,,0,low,soujanya
+anxiety,0,0,1,2,1,,0,,0,low,soujanya
+anxiety,0,0,1,2,1,,0,,0,high,soujanya
+happy,0,0,0,0,1,,4,,0,low,kaushal punjabi
+happy,1,1,0,0,1,,4,,0,low,kaushal punjabi
+happy,2,1,0,1,1,,4,,0,low,kaushal punjabi
+sad,2,1,0,1,1,,4,,0,low,kaushal punjabi
+sad,2,1,0,2,1,,5,,0,low,kaushal punjabi
+fear,2,1,0,1,1,,5,,0,low,kaushal punjabi
+fear,2,1,0,2,1,,5,,0,low,kaushal punjabi
+anxiety,2,1,0,2,1,,5,,0,low,kaushal punjabi
+anxiety,2,1,0,2,1,,5,,0,high,kaushal punjabi
+happy,0,0,0,0,0,,2,,0,low,manmeet grewal
+happy,0,0,0,1,0,,2,,0,low,manmeet grewal
+happy,1,1,0,0,1,,4,,0,low,manmeet grewal
+happy,1,1,0,0,1,,4,,0,low,manmeet grewal
+sad,1,1,0,1,1,,4,,0,low,manmeet grewal
+sad,1,1,0,1,1,,5,,0,low,manmeet grewal
+fear,1,1,0,2,1,,5,,0,low,manmeet grewal
+anxiety,1,1,0,2,1,,5,,0,low,manmeet grewal
+anxiety,1,1,0,2,1,,5,,0,low,manmeet grewal
+anxiety,1,1,0,2,1,,5,,0,high,manmeet grewal
